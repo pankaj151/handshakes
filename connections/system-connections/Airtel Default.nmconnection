@@ -1,0 +1,22 @@
+[connection]
+id=Airtel Default
+uuid=f18732be-7f4c-4988-9009-2ba676c23d7a
+type=gsm
+autoconnect=false
+permissions=
+
+[gsm]
+apn=airtelgprs.com
+number=*99#
+
+[serial]
+baud=115200
+
+[ipv4]
+dns-search=
+method=auto
+
+[ipv6]
+addr-gen-mode=stable-privacy
+dns-search=
+method=ignore

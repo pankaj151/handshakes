@@ -1,0 +1,25 @@
+[connection]
+id=Aarushi 1
+uuid=1e76f0b8-ab34-4fcf-8e0e-c8cbd8596a94
+type=wifi
+permissions=
+
+[wifi]
+mac-address=40:B8:9A:B8:62:A1
+mac-address-blacklist=
+mode=infrastructure
+ssid=Aarushi
+
+[wifi-security]
+auth-alg=open
+key-mgmt=wpa-psk
+psk=P@ssw0rd1
+
+[ipv4]
+dns-search=
+method=auto
+
+[ipv6]
+addr-gen-mode=stable-privacy
+dns-search=
+method=auto

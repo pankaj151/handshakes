@@ -1,0 +1,25 @@
+[connection]
+id=XT1022 7148
+uuid=f7adb0fd-02b3-408c-9938-7102ddf229c4
+type=wifi
+permissions=
+
+[wifi]
+mac-address=40:B8:9A:B8:62:A1
+mac-address-blacklist=
+mode=infrastructure
+ssid=XT1022 7148
+
+[wifi-security]
+auth-alg=open
+key-mgmt=wpa-psk
+psk=asdfghjkl
+
+[ipv4]
+dns-search=
+method=auto
+
+[ipv6]
+addr-gen-mode=stable-privacy
+dns-search=
+method=auto

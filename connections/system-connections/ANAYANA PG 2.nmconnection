@@ -1,0 +1,24 @@
+[connection]
+id=ANAYANA PG 2
+uuid=a33dce6a-36de-4d20-8191-2c05fa6c2766
+type=wifi
+permissions=
+
+[wifi]
+mac-address-blacklist=
+mode=infrastructure
+ssid=ANAYANA PG 2
+
+[wifi-security]
+auth-alg=open
+key-mgmt=wpa-psk
+psk=aradhya@4321
+
+[ipv4]
+dns-search=
+method=auto
+
+[ipv6]
+addr-gen-mode=stable-privacy
+dns-search=
+method=auto

@@ -1,0 +1,25 @@
+[connection]
+id=Shanky chaudhary
+uuid=0a42fa5e-e436-4c74-a413-6eb761062b1c
+type=wifi
+permissions=
+
+[wifi]
+mac-address=40:B8:9A:B8:62:A1
+mac-address-blacklist=
+mode=infrastructure
+ssid=Shanky chaudhary
+
+[wifi-security]
+auth-alg=open
+key-mgmt=wpa-psk
+psk=63446344
+
+[ipv4]
+dns-search=
+method=auto
+
+[ipv6]
+addr-gen-mode=stable-privacy
+dns-search=
+method=auto

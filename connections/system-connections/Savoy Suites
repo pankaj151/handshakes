@@ -1,0 +1,20 @@
+[connection]
+id=Savoy Suites
+uuid=adbcc0c5-feb5-463d-9aeb-9745837f4096
+type=wifi
+permissions=
+
+[wifi]
+mac-address=40:B8:9A:B8:62:A1
+mac-address-blacklist=
+mode=infrastructure
+ssid=Savoy Suites
+
+[ipv4]
+dns-search=
+method=auto
+
+[ipv6]
+addr-gen-mode=stable-privacy
+dns-search=
+method=auto

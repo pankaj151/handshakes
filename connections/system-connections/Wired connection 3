@@ -1,0 +1,18 @@
+[connection]
+id=Wired connection 3
+uuid=6b8be46c-ad23-495f-9a77-f75fa139e003
+type=ethernet
+permissions=
+
+[ethernet]
+mac-address=00:50:56:C0:00:08
+mac-address-blacklist=
+
+[ipv4]
+dns-search=
+method=auto
+
+[ipv6]
+addr-gen-mode=stable-privacy
+dns-search=
+method=auto

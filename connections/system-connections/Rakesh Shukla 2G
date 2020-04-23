@@ -1,0 +1,25 @@
+[connection]
+id=Rakesh Shukla 2G
+uuid=f04157c8-1a69-4cc0-8932-faa949a76426
+type=wifi
+permissions=
+
+[wifi]
+mac-address=40:B8:9A:B8:62:A1
+mac-address-blacklist=
+mode=infrastructure
+ssid=Rakesh Shukla 2G
+
+[wifi-security]
+auth-alg=open
+key-mgmt=wpa-psk
+psk=Aa@11111
+
+[ipv4]
+dns-search=
+method=auto
+
+[ipv6]
+addr-gen-mode=stable-privacy
+dns-search=
+method=auto

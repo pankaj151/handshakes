@@ -1,0 +1,19 @@
+[connection]
+id=Spring House
+uuid=e9a46186-80b2-4d66-a91f-23be4e2eee9e
+type=wifi
+permissions=
+
+[wifi]
+mac-address-blacklist=
+mode=infrastructure
+ssid=Spring House
+
+[ipv4]
+dns-search=
+method=auto
+
+[ipv6]
+addr-gen-mode=stable-privacy
+dns-search=
+method=auto
