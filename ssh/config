@@ -1,7 +1,0 @@
-Host devcloud
-User u39887
-IdentityFile ~/.ssh/devcloud-access-key-39887.txt
-ProxyCommand ssh -T -i ~/.ssh/devcloud-access-key-39887.txt guest@devcloud.intel.com
-
-
-
