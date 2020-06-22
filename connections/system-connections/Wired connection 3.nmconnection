@@ -1,0 +1,20 @@
+[connection]
+id=Wired connection 3
+uuid=46551b64-ecf3-40f6-ab63-6c1359971ce9
+type=ethernet
+interface-name=vmnet1
+permissions=
+
+[ethernet]
+mac-address-blacklist=
+
+[ipv4]
+dns-search=
+method=auto
+
+[ipv6]
+addr-gen-mode=stable-privacy
+dns-search=
+method=auto
+
+[proxy]

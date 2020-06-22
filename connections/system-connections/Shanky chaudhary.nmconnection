@@ -1,0 +1,27 @@
+[connection]
+id=Shanky chaudhary
+uuid=2d782873-23fa-4851-ac22-742b1e16eadc
+type=wifi
+interface-name=wlp13s0
+permissions=
+
+[wifi]
+mac-address-blacklist=
+mode=infrastructure
+ssid=Shanky chaudhary
+
+[wifi-security]
+auth-alg=open
+key-mgmt=wpa-psk
+psk=63446344
+
+[ipv4]
+dns-search=
+method=auto
+
+[ipv6]
+addr-gen-mode=stable-privacy
+dns-search=
+method=auto
+
+[proxy]

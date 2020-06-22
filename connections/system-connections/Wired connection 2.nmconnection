@@ -1,0 +1,20 @@
+[connection]
+id=Wired connection 2
+uuid=c7130805-7540-4aef-aaac-b9f41c610097
+type=ethernet
+interface-name=vmnet8
+permissions=
+
+[ethernet]
+mac-address-blacklist=
+
+[ipv4]
+dns-search=
+method=auto
+
+[ipv6]
+addr-gen-mode=stable-privacy
+dns-search=
+method=auto
+
+[proxy]
