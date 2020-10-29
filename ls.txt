@@ -1,3 +1,25 @@
+CUDA API (CUDA 11.1)
+====================
+* Device #1: Tesla P100-PCIE-16GB, 16017/16280 MB, 56MCU
+
+OpenCL API (OpenCL 1.2 CUDA 11.1.102) - Platform #1 [NVIDIA Corporation]
+========================================================================
+* Device #2: Tesla P100-PCIE-16GB, skipped
+
+Benchmark relevant options:
+===========================
+* --opencl-device-types=2
+* --workload-profile=3
+
+Hashmode: 2500 - WPA-EAPOL-PBKDF2 (Iterations: 4095)
+
+Speed.#1.........:   467.5 kH/s (60.80ms) @ Accel:16 Loops:128 Thr:1024 Vec:1
+
+Started: Tue Oct 27 08:57:54 2020
+Stopped: Tue Oct 27 08:57:59 2020
+
+
+
 benchmark@24cores
 connections
 hands
